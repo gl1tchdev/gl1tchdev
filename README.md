@@ -28,7 +28,10 @@
 В качестве языка для проекта выбран python 3.9, и использовались: mongo, pyTelegramBotAPI, api google. <br>
 Проект развёрнут на vps в качестве системных служб, в планах развернуть его через cubernetes и docker.
 ### RPSmin
-Веб-приложение: камень-ножницы-бумага. Использовался flask и bootstrap для фронтенда, демо в README.md
+Веб-приложение: камень-ножницы-бумага. Использовался flask и mdb для фронтенда, демо в README.md
+
+### TODO
+Веб-приложение: task-manager. Использовались: mdb, django, celery, redis, postgresql.
 
 ### Quiz
 Веб-приложение: викторины. Использовался FastAPI, mdb (material design bootstrap), sqlite, sqlalchemy, pydantic.
